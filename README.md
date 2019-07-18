@@ -20,13 +20,13 @@ A very simple Java implementation of the Apache Spark DataSourceV2 API.
 
 This example is compatible with **Spark 2.4.3.**
 
-#Building
+# Building
 The jar file containing the DataSource is built with the following command
 ```text
 $ mvn package
 ```
 
-#Testing
+# Testing
 The DataSource can be demonstrated from the pyspark shell.
 
 Pyspark should be launched with the following command:
